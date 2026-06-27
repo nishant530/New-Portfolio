@@ -1,0 +1,29 @@
+.hero {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background: linear-gradient(135deg, #1a1a2e, #3d1a78);
+  border-bottom-left-radius: 4rem;
+  border-bottom-right-radius: 4rem;
+}
+#name {
+  font-weight: 700;
+  letter-spacing: -0.03rem;
+  line-height: 1;
+  font-size: clamp(3.5rem, 10vw, 6rem);
+}
+#attitude_line {
+  text-decoration: solid;
+  color: rgb(224, 224, 89);
+}
+#heroImg {
+  border-radius: 4rem;
+  margin-top: 1rem;
+  padding: 1rem;
+  box-shadow: #e8f4fd 1rem 1rem;
+}
+.general_info {
+  display: flex;
+  gap: 1rem;
+}

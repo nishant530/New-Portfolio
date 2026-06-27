@@ -1,0 +1,20 @@
+.about {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background: linear-gradient(135deg, #1a1a2e, #3d1a78);
+}
+#story {
+  line-height: 1.5;
+}
+#story b {
+  color: rgb(224, 224, 89);
+}
+#aboutImg {
+  border-radius: 4rem;
+  margin-top: 1rem;
+  padding: 1rem;
+  height: 350px;
+  width: 550px;
+}
