@@ -50,7 +50,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="col">
-          <img src="public\hero_section.avif" alt="heroimage" id="heroImg" />
+          <img src="\hero_section.avif" alt="heroimage" id="heroImg" />
         </div>
       </div>
     </div>
