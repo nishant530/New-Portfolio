@@ -6,7 +6,20 @@ export default function Hero() {
       <div className="row">
         <div className="col">
           <p id="greeting">Hii, I'm</p>
-          <h1 id="name">NISHANT SONI</h1>
+          <h1 id="name">
+            NISHANT SONI
+            <span
+              style={{
+                fontSize: "0.75rem",
+                fontWeight: "normal",
+                color: "rgb(224, 224, 89)",
+                verticalAlign: "baseline",
+              }}
+            >
+              {" "}
+              <i>- Building AI-Powered MERN Stack Solutions</i>
+            </span>
+          </h1>
           <p id="description">
             I'm a 3rd year B.Tech student in CSE(specialization in IoT) branch
             at PIET , Jaipur . Building real-world full stack projects.
