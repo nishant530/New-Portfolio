@@ -34,7 +34,7 @@ export const data = [
     idx: 3,
     title: "Postora",
     description:
-      "It is a CRUD operational website where different users can chat with each other .",
+      "Postora is a full-stack CRUD-based web application where registered users can create, read, update, and delete their posts. It features user authentication, so every user has their own personalized feed. Built to understand the core concepts of how social platforms work — from database design to backend logic to frontend rendering.",
     techStack: ["Express.js", "Node.js", "Bootstrap", "Postman"],
   },
 ];

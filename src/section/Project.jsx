@@ -26,7 +26,11 @@ export default function Project() {
               />
             ))}
           </div>
-          <a href="#" className="btn btn-info m-5">
+          <a
+            href="#"
+            className="btn  m-5"
+            style={{ background: "#7c3aed", color: "#e8f4fd" }}
+          >
             View More
           </a>
         </div>

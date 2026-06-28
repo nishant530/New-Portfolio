@@ -1,5 +1,13 @@
-.fa-brands {
-  height: 25px;
-  width: 25px;
-  display: inline;
+.card {
+  background-color: #1a1a2e;
+  color: #e8f4fd;
+}
+.card-body h5 {
+  color: rgb(224, 224, 89);
+}
+.card-body ul {
+  /* display: flex;
+  flex-wrap: wrap; */
+  list-style: none;
+  color: rgb(224, 224, 89);
 }
