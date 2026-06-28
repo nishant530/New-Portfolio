@@ -4,7 +4,7 @@ export default function About() {
     <div className="container-fluid about p-5 mt-3" id="about">
       <div className="row">
         <div className="col">
-          <img src="public\about_image.svg" alt="about image" id="aboutImg" />
+          <img src="\about_image.svg" alt="about image" id="aboutImg" />
         </div>
         <div className="col">
           <p>

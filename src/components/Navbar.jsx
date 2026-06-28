@@ -72,7 +72,7 @@ export default function Navbar() {
           </ul>
         </div>
 
-        <a href="\public\updated_cv.pdf" target="_blank" type="button" id="btn">
+        <a href="\updated_cv.pdf" target="_blank" type="button" id="btn">
           Resume
         </a>
       </div>
