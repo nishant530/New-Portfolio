@@ -1,5 +1,5 @@
 import ProjectCard from "../components/ProjectCard";
-import "../styles/section_css/project.css";
+import "../styles/section_css/Project.css";
 import { data } from "../data/projectData";
 export default function Project() {
   return (
